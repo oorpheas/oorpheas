@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140" role="img" aria-label="Marca">
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 128 128" role="img" aria-label="Marca">
   <rect width="100%" height="100%" fill="transparent"/>
-  <text x="50%" y="55%" font-family="serif" font-size="44" font-weight="700" text-anchor="middle" dominant-baseline="middle">
+  <text x="50%" y="55%" font-family="serif" font-size="64" font-weight="100" text-anchor="middle" dominant-baseline="middle">
     <tspan fill="#ED8732">✶</tspan>
   </text>
 </svg>
