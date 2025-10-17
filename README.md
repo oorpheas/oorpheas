@@ -7,7 +7,7 @@
 
 <!-- banner -->
 <div align="center">
-  <img src="/Assets/bannerCrop.png" alt="banner" width="100%" />
+  <img src="/Assets/bannerCrop.png" alt="banner" width="90%" />
 </div>
 
 <br/>
@@ -21,20 +21,20 @@
 <br/>
 
 <!-- table -->
-<table align="center" width="100%" cellpadding="12">
+<table align="center" width="90%" cellpadding="12">
   <tr>
     <th align="center">𝐀𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬</th>
     <th align="center">𝐒𝐭𝐚𝐭𝐬</th>
   </tr>
   <tr>
-    <td width="50%" align="left">
+    <td width="45%" align="left">
       <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐔𝐧𝐢𝐭𝐲 · 𝟐 𝐲𝐞𝐚𝐫𝐬;</span><br/>
       <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐂𝐒𝐡𝐚𝐫𝐩 · 𝟐 𝐲𝐞𝐚𝐫𝐬;</span><br/>
       <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐏𝐲𝐭𝐡𝐨𝐧 · 𝟐 𝐲𝐞𝐚𝐫𝐬;</span><br/>
       <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐆𝐚𝐦𝐞 𝐀𝐫𝐭𝐢𝐬𝐭 · +𝟓 𝐲𝐞𝐚𝐫𝐬;</span><br/>
     </td>
-    <td width="60%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=oorpheas&theme=transparent&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=true&text_color=A25BC2&icon_color=ED8734&custom_title=&hide_title=true" alt="GitHub Stats" width="100%" />
+    <td width="55%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=oorpheas&theme=transparent&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=true&text_color=A25BC2&icon_color=ED8734&custom_title=&hide_title=true" alt="GitHub Stats" width="90%" />
     </td>
   </tr>
 </table>
