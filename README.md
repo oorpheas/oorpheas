@@ -1,8 +1,9 @@
 <!-- ei, o que está fazendo aqui? -->
 <!-- Title as SVG for consistent colors -->
-<div align="center">
-  <img src="/Assets/title.svg" alt="Orfeus - GAME DEV" width="100%" />
-</div>
+
+<p align="center">
+  <img src="Assets/title.svg" alt="Orfeus - GAME DEV" width="90%" height="auto" />
+</p>
 
 <!-- banner -->
 <div align="center">
