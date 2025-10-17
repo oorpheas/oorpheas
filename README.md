@@ -13,23 +13,23 @@
 <br/>
 
 <!-- abilities table (full width) -->
-<table width="100%" cellpadding="12">
+<table align="center" width="100%" cellpadding="12">
   <tr>
     <th align="left">Abilities</th>
     <th align="right">Stats</th>
   </tr>
   <tr>
-    <td width="70%">
-      <span>✶ <strong>Developer Unity</strong></span><br/>
-      <span>✶ <strong>Developer CSharp</strong></span><br/>
-      <span>✶ <strong>Developer Python</strong></span><br/>
-      <span>✶ <strong>Game Artist</strong></span><br/>
-      <span>✶ <strong>Studying Flutter/Dart + Golang</strong></span><br/>
-      <span>✶ <strong>Automation Enthusiast</strong></span><br/>
-      <span>✶ <strong>Learning PostgreSQL</strong></span>
+    <td width="40%">
+      <span>✶ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐔𝐧𝐢𝐭𝐲</span><br/>
+      <span>✶ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐂𝐒𝐡𝐚𝐫𝐩</span><br/>
+      <span>✶ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐏𝐲𝐭𝐡𝐨𝐧</span><br/>
+      <span>✶ 𝐆𝐚𝐦𝐞 𝐀𝐫𝐭𝐢𝐬𝐭</span><br/>
+      <span>✶ 𝐒𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐅𝐥𝐮𝐭𝐭𝐞𝐫/𝐃𝐚𝐫𝐭 + 𝐆𝐨𝐥𝐚𝐧𝐠</span><br/>
+      <span>✶ 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭</span><br/>
+      <span>✶ 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋</span>
     </td>
-    <td width="30%" align="right">
-      <img src="https://github-readme-stats.vercel.app/api?username=oorpheas&theme=transparent&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=true&text_color=A25BC2&icon_color=ED8734&custom_title=&hide_title=true" alt="GitHub Stats" width="320" />
+    <td width="60%" align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=oorpheas&theme=transparent&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=true&text_color=A25BC2&icon_color=ED8734&custom_title=&hide_title=true" alt="GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
