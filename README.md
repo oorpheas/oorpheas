@@ -52,7 +52,7 @@
   <a href="https://www.behance.net/rzahir">
     <img src="https://img.shields.io/badge/-Behance-ED8734?style=for-the-badge&logo=behance&logoColor=white" alt="behance">
   </a>
-  <a href="https://www.linkedin.com/in/rafael-soares-069351308/">
+  <a href="https://www.linkedin.com/in/oorpheas/">
     <img src="https://img.shields.io/badge/LinkedIn-A25BC2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   <a href="https://oorpheas.itch.io/">
