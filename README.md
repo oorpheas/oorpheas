@@ -32,9 +32,8 @@
   </tr>
   <tr>
     <td width="45%" align="left">
-      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐔𝐧𝐢𝐭𝐲 · 𝟐 𝐲𝐞𝐚𝐫𝐬;</span><br/>
-      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐂𝐒𝐡𝐚𝐫𝐩 · 𝟐 𝐲𝐞𝐚𝐫𝐬;</span><br/>
-      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐏𝐲𝐭𝐡𝐨𝐧 · 𝟐 𝐲𝐞𝐚𝐫𝐬;</span><br/>
+      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐔𝐧𝐢𝐭𝐲 · 𝟑 𝐲𝐞𝐚𝐫𝐬;</span><br/>
+      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐂𝐒𝐡𝐚𝐫𝐩 · 𝟑 𝐲𝐞𝐚𝐫𝐬;</span><br/>
       <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐆𝐚𝐦𝐞 𝐀𝐫𝐭𝐢𝐬𝐭 · +𝟓 𝐲𝐞𝐚𝐫𝐬;</span><br/>
     </td>
     <td width="55%" align="center">
