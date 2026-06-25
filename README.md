@@ -15,7 +15,7 @@
 <!-- bio -->
 <div align="center">
 	
-<span>𝐆𝐚𝐦𝐞 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 𝐚𝐧𝐝 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭. 𝐂𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 𝐦𝐲 [𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨](https://oorpheas.github.io/)! <br/> 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐝𝐞𝐬𝐢𝐠𝐧𝐢𝐧𝐠 𝐚 𝐏𝐲𝐭𝐡𝐨𝐧 𝐛𝐨𝐭 𝐟𝐨𝐫 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐰𝐢𝐭𝐡 <br/> 𝐝𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐭𝐨 𝐜𝐨𝐧𝐭𝐫𝐨𝐥 𝐚𝐧 𝐑𝐏𝐆 𝐬𝐲𝐬𝐭𝐞𝐦 — ["𝐓𝐡𝐞 𝐎𝐫𝐚𝐜𝐥𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭."](https://github.com/oorpheas/TheOracleProject) <br/> 
+<span>𝐆𝐚𝐦𝐞 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 𝐚𝐧𝐝 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭. 𝐂𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 𝐦𝐲 [𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨](https://oorpheas.github.io/)! <br/> 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐅𝐥𝐮𝐭𝐭𝐞𝐫/𝐃𝐚𝐫𝐭 𝐚𝐧𝐝 𝐆𝐨𝐥𝐚𝐧𝐠. 𝐀𝐭 𝐭𝐡𝐞 𝐬𝐚𝐦𝐞 𝐭𝐢𝐦𝐞, <br/> 𝐈'𝐦 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐚 𝐠𝐚𝐦𝐞 𝐢𝐧 𝐔𝐧𝐢𝐭𝐲 𝐚𝐧𝐝 𝐚 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐬𝐢𝐭𝐞 𝐟𝐨𝐫 𝐦𝐲 [𝐑𝐏𝐆](docs.rpg-institutokairos.org). <br/>
 𝐂𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 𝐦𝐲 [𝐠𝐚𝐦𝐞](https://oorpheas.itch.io/bad-neighborhood)ⵑ (𝐢𝐭'𝐬 𝐬𝐭𝐢𝐥𝐥 𝐢𝐧 𝐛𝐞𝐭𝐚) </span>
 
 <!-- <br/> 𝐒𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐚 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫.</span> -->
@@ -32,6 +32,9 @@
   </tr>
   <tr>
     <td width="45%" align="left">
+      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐃𝐚𝐫𝐭 · 𝟔 𝐦𝐨𝐧𝐭𝐡𝐬;</span><br/>
+      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 · 𝟔 𝐦𝐨𝐧𝐭𝐡𝐬;</span><br/>
+      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐆𝐨𝐥𝐚𝐧𝐠 · 𝟔 𝐦𝐨𝐧𝐭𝐡𝐬;</span><br/>
       <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐔𝐧𝐢𝐭𝐲 · 𝟑 𝐲𝐞𝐚𝐫𝐬;</span><br/>
       <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐂𝐒𝐡𝐚𝐫𝐩 · 𝟑 𝐲𝐞𝐚𝐫𝐬;</span><br/>
       <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐆𝐚𝐦𝐞 𝐀𝐫𝐭𝐢𝐬𝐭 · +𝟓 𝐲𝐞𝐚𝐫𝐬;</span><br/>
