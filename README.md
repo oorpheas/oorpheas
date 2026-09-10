@@ -1,23 +1,29 @@
 <!-- ei, o que está fazendo aqui? -->
 <!-- Title as SVG for consistent colors -->
-
+#
+<br/>
 <p align="center">
   <img src="Assets/new-title.svg" alt="Orfeu" width="15%" height="auto" />
 </p>
+
+#
 
 <!-- banner -->
 <div align="center">
   <img src="/Assets/bannerCrop.png" alt="banner" width="90%" />
 </div>
 
+#
+
 <br/>
 
 <!-- bio -->
+<div>
 <div align="center">
-	
-<span>𝐆𝐚𝐦𝐞 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 𝐚𝐧𝐝 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭. 𝐂𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 𝐦𝐲 [𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨](https://oorpheas.github.io/)! <br/> 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐅𝐥𝐮𝐭𝐭𝐞𝐫/𝐃𝐚𝐫𝐭 𝐚𝐧𝐝 𝐆𝐨𝐥𝐚𝐧𝐠. 𝐀𝐭 𝐭𝐡𝐞 𝐬𝐚𝐦𝐞 𝐭𝐢𝐦𝐞, <br/> 𝐈'𝐦 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐚 𝐠𝐚𝐦𝐞 𝐢𝐧 𝐔𝐧𝐢𝐭𝐲 𝐚𝐧𝐝 𝐚 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐬𝐢𝐭𝐞 𝐟𝐨𝐫 𝐦𝐲 [𝐑𝐏𝐆](https://docs.rpg-institutokairos.org/). <br/>
-𝐂𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 𝐦𝐲 [𝐠𝐚𝐦𝐞](https://oorpheas.itch.io/bad-neighborhood)ⵑ (𝐢𝐭'𝐬 𝐬𝐭𝐢𝐥𝐥 𝐢𝐧 𝐛𝐞𝐭𝐚) </span>
 
+<span>𝐉𝐮𝐧𝐢𝐨𝐫 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐆𝐚𝐦𝐞 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐢𝐚𝐧,<br/>𝐚𝐧𝐝 𝐜𝐫𝐞𝐚𝐭𝐨𝐫 𝐨𝐟 𝐭𝐡𝐞 𝐭𝐞𝐱𝐭-𝐛𝐚𝐬𝐞𝐝 𝐑𝐏𝐆 [𝐈𝐧𝐬𝐭𝐢𝐭𝐮𝐭𝐨 𝐊𝐚𝐢𝐫𝐨𝐬](https://github.com/Instituto-Kairos).<br/>𝐌𝐲 [𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨](https://oorpheas.github.io/) 𝐚𝐧𝐝 [𝐨𝐧𝐞 𝐨𝐟 𝐦𝐲 𝐠𝐚𝐦𝐞𝐬](https://oorpheas.itch.io/bad-neighborhood).<br/>[𝐋𝐞𝐭 𝐦𝐞 𝐤𝐧𝐨𝐰](mailto:orfeu.dev@gmail.com) 𝐢𝐟 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠 𝐜𝐚𝐭𝐜𝐡𝐞𝐬 𝐲𝐨𝐮𝐫 𝐞𝐲𝐞.<br/></span>
+
+#
 <!-- <br/> 𝐒𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐚 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫.</span> -->
 
 
@@ -25,26 +31,31 @@
 <br/>
 
 <!-- table -->
-<table align="center" width="90%" cellpadding="12">
+<table align="center" width="100%" cellpadding="12">
   <tr>
-    <th align="center">𝐀𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬</th>
-    <th align="center">𝐒𝐭𝐚𝐭𝐬</th>
-  </tr>
-  <tr>
-    <td width="45%" align="left">
-      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐃𝐚𝐫𝐭 · 𝟔 𝐦𝐨𝐧𝐭𝐡𝐬;</span><br/>
-      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 · 𝟔 𝐦𝐨𝐧𝐭𝐡𝐬;</span><br/>
-      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐆𝐨𝐥𝐚𝐧𝐠 · 𝟔 𝐦𝐨𝐧𝐭𝐡𝐬;</span><br/>
-      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐔𝐧𝐢𝐭𝐲 · 𝟑 𝐲𝐞𝐚𝐫𝐬;</span><br/>
-      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐂𝐒𝐡𝐚𝐫𝐩 · 𝟑 𝐲𝐞𝐚𝐫𝐬;</span><br/>
+    <td align="left">
+      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐃𝐚𝐫𝐭 · +𝟔 𝐦𝐨𝐧𝐭𝐡𝐬;</span><br/>
+      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 · +𝟔 𝐦𝐨𝐧𝐭𝐡𝐬;</span><br/>
+      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐆𝐨𝐥𝐚𝐧𝐠 · +𝟔 𝐦𝐨𝐧𝐭𝐡𝐬;</span><br/>
+    </td>
+    <td align="left">
+      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐆𝐢𝐭 · +𝟐 𝐦𝐨𝐧𝐭𝐡𝐬;</span><br/>
+      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐔𝐧𝐢𝐭𝐲 · +𝟑 𝐲𝐞𝐚𝐫𝐬;</span><br/>
+      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐂𝐒𝐡𝐚𝐫𝐩 · +𝟑 𝐲𝐞𝐚𝐫𝐬;</span><br/>
+    </td>
+    <td align="left">
+      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐬𝐬 · +𝟔 𝐦𝐨𝐧𝐭𝐡𝐬;</span><br/> 
+      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐇𝐓𝐌𝐋 · +𝟑 𝐲𝐞𝐚𝐫𝐬;</span><br/>
       <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐆𝐚𝐦𝐞 𝐀𝐫𝐭𝐢𝐬𝐭 · +𝟓 𝐲𝐞𝐚𝐫𝐬;</span><br/>
     </td>
-    <td width="55%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=oorpheas&theme=transparent&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=true&text_color=A25BC2&icon_color=ED8734&custom_title=&hide_title=true" alt="GitHub Stats" width="90%" />
+    <td align="left">
+      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐂𝐒𝐒 · +𝟐 𝐲𝐞𝐚𝐫𝐬;</span><br/>
+      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 · +𝟏 𝐲𝐞𝐚𝐫𝐬;</span><br/>
+      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐏𝐲𝐭𝐡𝐨𝐧 · +𝟑 𝐲𝐞𝐚𝐫𝐬;</span><br/>
     </td>
   </tr>
 </table>
-
+</div>
 <br/>
 
 <!-- links -->
