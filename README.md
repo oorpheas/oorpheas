@@ -43,6 +43,8 @@
       <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐔𝐧𝐢𝐭𝐲 · +𝟑 𝐲𝐞𝐚𝐫𝐬;</span><br/>
       <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐂𝐒𝐡𝐚𝐫𝐩 · +𝟑 𝐲𝐞𝐚𝐫𝐬;</span><br/>
     </td>
+</tr>
+<tr>
     <td align="left">
       <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐬𝐬 · +𝟔 𝐦𝐨𝐧𝐭𝐡𝐬;</span><br/> 
       <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐇𝐓𝐌𝐋 · +𝟑 𝐲𝐞𝐚𝐫𝐬;</span><br/>
