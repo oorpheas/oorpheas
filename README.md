@@ -39,7 +39,7 @@
       <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐆𝐨𝐥𝐚𝐧𝐠 · +𝟔 𝐦𝐨𝐧𝐭𝐡𝐬;</span><br/>
     </td>
     <td align="left">
-      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐆𝐢𝐭 · +𝟐 𝐦𝐨𝐧𝐭𝐡𝐬;</span><br/>
+      <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐆𝐢𝐭 · +𝟐 𝐲𝐞𝐚𝐫𝐬;</span><br/>
       <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐔𝐧𝐢𝐭𝐲 · +𝟑 𝐲𝐞𝐚𝐫𝐬;</span><br/>
       <img src="Assets/mark.svg" alt="Mark" width="auto" height="16px"/> <span> 𝐂𝐒𝐡𝐚𝐫𝐩 · +𝟑 𝐲𝐞𝐚𝐫𝐬;</span><br/>
     </td>
