@@ -2,7 +2,7 @@
 <!-- Title as SVG for consistent colors -->
 
 <p align="center">
-  <img src="Assets/title.svg" alt="Orfeu" width="90%" height="auto" />
+  <img src="Assets/new-title.svg" alt="Orfeu" width="90%" height="auto" />
 </p>
 
 <!-- banner -->
